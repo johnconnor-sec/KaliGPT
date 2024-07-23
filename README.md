@@ -104,14 +104,7 @@ Ask a Kali Linux command question: exit
 Goodbye!
 ```
 
-## Project Structure
 
-- `main.py`: The main script that runs the command assistant
-- `vector_store.py`: Handles the creation and querying of the vector database
-- `text_processing.py`: Contains functions for text chunking and processing
-- `db_utils.py`: Database utility functions
-- `models.py`: Defines the language model and embedding configurations
-- `config.py`: Configuration settings for the project
 
 ## Contributing
 
